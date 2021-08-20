@@ -36,7 +36,6 @@ else
 PATH="/usr/local/bin:/usr/bin:/bin:/usr/games/sbin"
 fi
 
-#####
 e pronto.
 
 salve e feche esse arquivo e digite o seguinte comando: source /etc/profile
